@@ -1,1 +1,1 @@
-const info = 'The About screen';git 
+const info = 'The About screen'
